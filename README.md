@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Jotanicia
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like see cartoons and 
--->
-![This is an alt text.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZqZkpMyiN2uSuT7GAf6JSkJ44YsZqoQHdw&s)
+
+# Languages
+![Python image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZqZkpMyiN2uSuT7GAf6JSkJ44YsZqoQHdw&s) 
+<img src="https://user-images.githubusercontent.com/103866722/194773833-8571f323-4fa8-4036-a51c-57b9d29c683b.svg" width="100" height="100">
